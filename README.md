@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Rexy!
+# 👋 Hi, I'm SVNCRY/Rexy!
 
 ### 🧠 About Me
 - 💻 Indie developer & creator of open-source projects  
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 Projects
-- 🌀 [gdTorrent](https://github.com/YOUR_USERNAME/gdTorrent) – Lightweight torrent client built with Godot  
+- 🌀 [gdTorrent](https://github.com/SVNCRY/gdTorrent) – Lightweight torrent client built with Godot  
 
 ---
 
