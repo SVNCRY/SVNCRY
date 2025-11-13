@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 Projects
-- 🌀 [gdTorrent](https://github.com/SVNCRY/gdTorrent) – Lightweight torrent client built with Godot  
+- 🌀 [godot-torrent-client](https://github.com/SVNCRY/godot-torrent-client) – Lightweight torrent client built with Godot  
 
 ---
 
