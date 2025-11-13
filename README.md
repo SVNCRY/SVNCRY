@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **SVNCRY/SVNCRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Rexy!
+
+### 🧠 About Me
+- 💻 Indie developer & creator of open-source projects  
+- 🎮 Currently working on **gdTorrent** — a Godot-based BitTorrent client  
+
+---
+
+### 🚀 Projects
+- 🌀 [gdTorrent](https://github.com/YOUR_USERNAME/gdTorrent) – Lightweight torrent client built with Godot  
+
+---
+
+### 🌐 Connect
+- 💌 [Discord:]()
+
+---
+
